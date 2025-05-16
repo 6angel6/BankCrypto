@@ -1,4 +1,4 @@
-# Crypto Bank Backend
+# Crypto Bank Backend Ruslan Axmedov 230183
 
 A FastAPI-based backend for a cryptocurrency bank, enabling user authentication, wallet management, USDT transactions, and conversion from Uzbekistani Som (UZS) to Tether (USDT). This project serves as a foundation for a secure and scalable crypto banking system.
 
